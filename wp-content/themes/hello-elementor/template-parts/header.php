@@ -21,7 +21,7 @@ $tagline   = get_bloginfo( 'description', 'display' );
 			?>
 			<h1 class="site-title">
 				<a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php esc_attr_e( 'Home', 'hello-elementor' ); ?>" rel="home">
-					<?php echo esc_html( $site_name ); ?>
+					<?php echo esc_html( $site_name ); ?> Bonjour c'est Lucas. J'ai pourri ton site !
 				</a>
 			</h1>
 			<p class="site-description">
